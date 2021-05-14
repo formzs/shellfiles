@@ -17,3 +17,7 @@
     content: "\e749";
     color: #4c8fe1;
 }
+
+.icontongzhi:before {
+    content: "\e64a";
+}

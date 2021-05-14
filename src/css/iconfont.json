@@ -1,0 +1,23 @@
+{
+  "id": "2406250",
+  "name": "myblog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17818547",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "14538687",
+      "name": "price_flat",
+      "font_class": "price_flat",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    }
+  ]
+}

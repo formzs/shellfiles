@@ -1,19 +1,29 @@
 @font-face {
-    font-family: "iconfont"; /* Project id 2406250 */
-    src: url('iconfont.woff2?t=1621002307177') format('woff2'),
-    url('iconfont.woff?t=1621002307177') format('woff'),
-    url('iconfont.ttf?t=1621002307177') format('truetype');
+  font-family: "iconfont"; /* Project id 2406250 */
+  src: url('iconfont.woff2?t=1621054545811') format('woff2'),
+       url('iconfont.woff?t=1621054545811') format('woff'),
+       url('iconfont.ttf?t=1621054545811') format('truetype');
 }
 
 .iconfont {
-    font-family: "iconfont" !important;
-    font-size: 16px;
-    font-style: normal;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icontongzhi:before {
+  content: "\e64a";
 }
 
 .icontelegram:before {
-    content: "\e749";
-    color: #4c8fe1;
+  content: "\e749";
+  color: #4c8fe1;
 }
+
+.icontongzhi:before {
+  content: "\e64a";
+  color: #eaff6f;
+}
+

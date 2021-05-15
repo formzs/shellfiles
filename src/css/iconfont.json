@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "5054705",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
       "icon_id": "17818547",
       "name": "telegram",
       "font_class": "telegram",
